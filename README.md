@@ -26,6 +26,7 @@ FWD는 웹 스터디 그룹 Primist의 전반적인 웹(Front-end, Back-end) 개
 
 ## Contributor
 
+- [Wonho Ha](http://www.github.com/Las_Wonho)Main Developer
 - [Unperknown](http://www.github.com/Unperknown)
 - [Mixergi](http://www.github.com/Mixergi)
 - [DawonChoi](http://www.github.com/DawonChoi)
